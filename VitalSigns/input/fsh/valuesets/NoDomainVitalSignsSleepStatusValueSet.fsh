@@ -14,5 +14,5 @@ Description: "Codes representing Sleep Status"
 * ^status = #draft
 * ^experimental = false
 * ^publisher = "FHIR Project team"
-* SNOMED_CT#248220008 "Sovende"
-* SNOMED_CT#248218005 "Våken"
+* $sctno#248220008 "Sovende"
+* $sctno#248218005 "Våken"
